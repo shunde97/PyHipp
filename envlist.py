@@ -61,7 +61,6 @@ with lock:
             # add code here
             env = clist[0]
             clist.pop(0)
-            
             # return env name
             print(env)
 
